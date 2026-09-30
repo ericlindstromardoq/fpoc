@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "sys_id": "b4c92f7a1e6d5083ac94e72f0b1d6e55",
+      "name": "Application 01",
+      "short_description": "Masked description for Application 01",
+      "u_view": "3 - Grid Maintenance",
+      "u_state_of_application": "B. Aktiivinen kehitys (Active Development)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "9a7c4e2d8f1b3056c4d2ea7b9810f3ac",
+      "name": "Application 02",
+      "short_description": "Masked description for Application 02",
+      "u_view": "3 - Grid Maintenance",
+      "u_state_of_application": "E. Poistossa (Ramp-down)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "5b2e9f7a1c8d4306ea9c7d2f0b4a6e13",
+      "name": "Application 03",
+      "short_description": "Masked description for Application 03",
+      "u_view": "4 - Grid Operations",
+      "u_state_of_application": "C. Ylläpidossa (Operative)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "3e9a7b5c8f1d4062a7c9e5d31b8f2a64",
+      "name": "Application 04",
+      "short_description": "Masked description for Application 04",
+      "u_view": "3 - Grid Maintenance",
+      "u_state_of_application": "C. Ylläpidossa (Operative)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "c1a9d7e4b6f2308ad59e4c1f7a2b9836",
+      "name": "Application 05",
+      "short_description": "Masked description for Application 05",
+      "u_view": "3 - Grid Maintenance",
+      "u_state_of_application": "B. Aktiivinen kehitys (Active Development)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "7e1c9a4f2b3d6058c9e2f4a1b7d6c0e3",
+      "name": "Application 06",
+      "short_description": "Masked description for Application 06",
+      "u_view": "4 - Grid Operations",
+      "u_state_of_application": "C. Ylläpidossa (Operative)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "7b3c91f6ad2e4058c97a1e3f6d4b82a0",
+      "name": "Application 07",
+      "short_description": "Masked description for Application 07",
+      "u_view": "4 - Grid Operations",
+      "u_state_of_application": "C. Ylläpidossa (Operative)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "4f9a1b2c7d8e5f309ac6b4d1e2f7a893",
+      "name": "Application 08",
+      "short_description": "Masked description for Application 08",
+      "u_view": "4 - Grid Operations",
+      "u_state_of_application": "E. Poistossa (Ramp-down)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    },
+    {
+      "sys_id": "1d7a3f9c6b2e40a58e9c1d7f3b6a2c0e",
+      "name": "Application 09",
+      "short_description": "Masked description for Application 09",
+      "u_view": "1 - Common Company Services",
+      "u_state_of_application": "B. Aktiivinen kehitys (Active Development)",
+      "operational_status": "Toiminnassa (In use)",
+      "discovery_source": "",
+      "sys_class_name": "cmdb_ci_business_app"
+    }
+  ]
+}
